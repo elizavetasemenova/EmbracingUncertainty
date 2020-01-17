@@ -15,13 +15,18 @@ Warning!! Make sure that you have at least 30GB of free space.
 * Server version for Linux: Follow instructions under Install Docker Engine - Community
 
 2. Verify installation by running the following in a terminal (Mac, Linux) or PowerShell (Windows):
+
 ```docker run hello-world```
+
 This should output the following:
+
 ```Hello from Docker!
 This message shows that your installation appears to be working correctly.
 ...
 ```
+
 3. Download Docker image from DockerHub.
+
 ```docker pull tatianama/julia-workshop```
 
 ### During
