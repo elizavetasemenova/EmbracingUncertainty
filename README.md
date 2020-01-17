@@ -27,7 +27,7 @@ This message shows that your installation appears to be working correctly.
 
 3. Download Docker image from DockerHub.
 
-```docker pull tatianama/julia-workshop```
+```to_be_provided_later```
 
 ### During
 
