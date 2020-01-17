@@ -20,7 +20,8 @@ Warning!! Make sure that you have at least 30GB of free space.
 
 This should output the following:
 
-```Hello from Docker!
+```
+Hello from Docker!
 This message shows that your installation appears to be working correctly.
 ...
 ```
