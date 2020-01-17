@@ -28,9 +28,48 @@ This message shows that your installation appears to be working correctly.
 
 3. Download Docker image from DockerHub.
 
-```to_be_provided_later```
+```docker pull semenovae/julia-workshop```
 
 ### During
 
-.. to be continued
+1. Run the Julia environment
+
+``` docker run -p 8888:8888 semenovae/julia-workshop  ```
+
+2. Create a new Jupyter notebook
+
+3. At the end of the workshop, make sure to download your Jupyter notebook before ending the Docker session and deleting the Docker image
+```
+Ctrl+C
+
+docker ps // To obtain container ID
+
+docker rm container-id -f
+
+```
+
+### Misc (FYI)
+1. Create docker image from Dockerfile and push it to Docker Hub
+
+```
+docker build -t your_dockerID/your_image_name:1 .
+docker tag your_dockerID/your_image_name:1 dockerID/your_image_name:latest
+docker push your_dockerID/your_image_name:1
+docker push your_dockerID/your_image_name:latest
+```
+
+2. List Docker images
+
+```
+docker images
+```
+
+3. Remove all docker images
+
+```
+docker system prune -a
+```
+
+
+
 
