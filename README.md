@@ -7,7 +7,7 @@ https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing
 
 R+Stan and Python+PyMC3 versions of the code will be provided in this repository. The main tutorial, however, will take place in Julia+Turing. For Julia, use the Docker image as explained below. 
 
-### Before
+### Before the workshop
 Warning!! Make sure that you have at least 30GB of free space.
 
 1. Install Docker from https://docs.docker.com/install/
@@ -30,7 +30,7 @@ This message shows that your installation appears to be working correctly.
 
 ```docker pull semenovae/julia-workshop```
 
-### During
+### During the workshop
 
 1. Run the Julia environment
 
