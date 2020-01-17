@@ -12,7 +12,7 @@ Warning!! Make sure that you have at least 30GB of free space.
 
 1. Install Docker from https://docs.docker.com/install/
 * Desktop version for Mac and Windows (Requires creating docker hub account)
-* Server version for Linux: Follow instructions under Install Docker Engine - Community
+* Server version for Linux: Follow instructions under *Install Docker Engine - Community*
 
 2. Verify installation by running the following in a terminal (Mac, Linux) or PowerShell (Windows):
 
