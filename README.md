@@ -26,9 +26,9 @@ This message shows that your installation appears to be working correctly.
 ...
 ```
 
-3. Decrease the space used by Docker 
-* Mac: Docker -> Preferences -> Disk: set Disk image size to 16GB
-* Windows: Docker -> Settings -> Advanced: set Disk image size to 16GB
+3. Adjust used resources in Docker to fit your computer, e.g.
+* Mac: Docker -> Preferences -> Disk: set Disk image size to 16GB; Apply
+* Windows: Docker -> Settings -> Advanced: set Disk image size to 16GB, CPUs to 1, Memory to 1280MB; Apply
 
 4. Download Docker image from DockerHub.
 
