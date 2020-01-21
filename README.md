@@ -8,7 +8,7 @@ https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing
 R+Stan and Python+PyMC3 versions of the code will be provided in this repository. The main tutorial, however, will take place in Julia+Turing. For Julia, use the Docker image as explained below. 
 
 ### Before the workshop
-Warning !! Make sure that you have at least 30GB of free space !!
+Warning !! Make sure that you have at least 30GB of free space !! If you don't have enough memory, please pair up with someone who does (otherwise there might be undesirable consequences for your computer)
 
 1. Install Docker from https://docs.docker.com/install/
 * Desktop version for Mac and Windows (Requires creating docker hub account)
@@ -28,6 +28,7 @@ This message shows that your installation appears to be working correctly.
 
 3. Decrease the space used by Docker 
 * Mac: Docker -> Preferences -> Disk: set Disk image size to 16GB
+* Windows: Docker -> Settings -> Advanced: set Disk image size to 16GB
 
 4. Download Docker image from DockerHub.
 
