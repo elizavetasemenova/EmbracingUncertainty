@@ -1,5 +1,5 @@
 # EmbracingUncertainty
-Material for Applied MAchine Learning Dyas (AMLD) 2020 workshop "Bayesian Inference: embracing uncertainty": 
+Material for Applied Machine Learning Days (AMLD) 2020 workshop "Bayesian Inference: embracing uncertainty": 
 
 https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing-uncertainty
 
@@ -26,7 +26,10 @@ This message shows that your installation appears to be working correctly.
 ...
 ```
 
-3. Download Docker image from DockerHub.
+3. Decrease the space used by Docker 
+* Mac: Docker -> Preferences -> Disk: set Disk image size to 16GB
+
+4. Download Docker image from DockerHub.
 
 ```docker pull semenovae/julia-workshop```
 
