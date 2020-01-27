@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+####################################################################
+# please mind the library versions - I will make a list here soon
+####################################################################
+
+
 # In[1]:
 
 
