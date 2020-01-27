@@ -1,4 +1,15 @@
 
+####################################################################
+# please mind Julia and libraris' versions:
+#
+# JULIA_VERSION=1.2.0
+# Pkg.add(Pkg.PackageSpec(;name="Turing", version="0.6.23")
+# Pkg.add(Pkg.PackageSpec(;name="Plots", version="0.25.3"))
+# Pkg.add(Pkg.PackageSpec(;name="Distributions", version="0.21.1"))
+# Pkg.add(Pkg.PackageSpec(;name="StatsBase", version="0.32.0"))
+####################################################################
+
+
 println("All models are wrong, but some are useful.")
 
 ##############################################
