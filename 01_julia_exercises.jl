@@ -249,10 +249,6 @@ using Plots
 using StatsBase
 using Turing
 
-using Distributions
-using Plots
-using StatsBase
-
 ##############################################
 # prioir x likelihood = posterior
 ##############################################
