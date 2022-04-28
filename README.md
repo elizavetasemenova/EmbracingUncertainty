@@ -1,7 +1,7 @@
 # EmbracingUncertainty
 Material for Applied Machine Learning Days (AMLD) 2020 workshop "Bayesian Inference: embracing uncertainty": 
 
-https://appliedmldays.org/workshops/hands-on-bayesian-machine-learning-embracing-uncertainty
+https://appliedmldays.org/events/amld-epfl-2020/workshops/hands-on-bayesian-machine-learning-embracing-uncertainty
 
 ## Preparation
 
